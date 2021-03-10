@@ -16,7 +16,7 @@ const Banner = () => {
         <div >
 
             <Jumbotron fluid className="jumbotron">
-                <h1>BLACKLEY TOWN </h1>
+                <h1>KFC DESSEL SPORT</h1>
             </Jumbotron>
             {/* <h1>Team:{teams.length}</h1> */}
             <div className="container banner">
