@@ -1,0 +1,21 @@
+.team {
+  text-align: center;
+  font-family: "Arvo", sans-serif;
+  background-color: #fff;
+  color: black;
+  width: 300px;
+  height: 285px;
+  padding: 20px;
+  margin: 20px;
+  border: 1px solid gray;
+  border-radius: 5px;
+  box-shadow: 3px 3px 2px gray;
+  
+}
+.detail-btn{
+  width: 150px;
+ background-color:#679500;
+ color:#fff;
+}
+
+  

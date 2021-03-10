@@ -1,0 +1,16 @@
+.header{
+    height:78px;
+}
+.header img{
+    max-width: 100%;
+    max-height:70px;
+}
+.menu{
+    margin-left: 400px;
+}
+
+.menu-item{
+    padding: 10px;
+    color:#679500;
+    font-size:25px;
+}   
