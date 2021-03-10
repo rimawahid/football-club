@@ -11,6 +11,7 @@ import Header from './components/Header/Header';
 import TeamDetail from './components/TeamDetail/TeamDetail';
 import NotMatch from './components/NotMatch/NotMatch';
 import About from './components/About/About';
+import Contact from './components/Contact/Contact';
 
 
 
@@ -28,6 +29,9 @@ function App() {
         </Route>
         <Route path="/about">
            <About/>
+          </Route>
+          <Route path="/contact">
+           <Contact/>
           </Route>
         <Route path = "/team/:idTeam">
           <TeamDetail></TeamDetail>
